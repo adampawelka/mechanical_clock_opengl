@@ -1,0 +1,13 @@
+﻿  main_file.cpp
+C:\Users\Wiktoria\Desktop\bio_szkielet_08_win\main_file.cpp(433,43): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Wiktoria\Desktop\bio_szkielet_08_win\main_file.cpp(434,43): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Wiktoria\Desktop\bio_szkielet_08_win\main_file.cpp(435,41): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Wiktoria\Desktop\bio_szkielet_08_win\main_file.cpp(437,53): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Wiktoria\Desktop\bio_szkielet_08_win\main_file.cpp(440,53): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+  Trwa generowanie kodu
+  4 of 470 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+glew32s.lib(glew.obj) : warning LNK4099: nie znaleziono pliku PDB „vc120.pdb” z elementem „glew32s.lib(glew.obj)” lub w pozycji „C:\Users\Wiktoria\Desktop\bio_szkielet_08_win\x64\Release\vc120.pdb”; obiekt zostanie skonsolidowany bez informacji debugowania
+  bio_szkielet_08_win.vcxproj -> C:\Users\Wiktoria\Desktop\bio_szkielet_08_win\x64\Release\bio_szkielet_08_win.exe
